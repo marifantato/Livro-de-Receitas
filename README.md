@@ -1,3 +1,4 @@
+Este é um exercício feito em aula sobre Git e GitHub
 
 -LIVRO DE RECEITAS
 
